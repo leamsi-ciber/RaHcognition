@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">cognition</string>
+    <string name="app_name2">RaH</string>
+    <string name="face_text">Face</string>
+    <string name="hand_text">Signs</string>
+    <string name="hand_text2">Signs Recognition</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="tfe_od_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+</resources>

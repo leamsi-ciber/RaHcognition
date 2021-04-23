@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "87397565953",
+    "firebase_url": "https://auto-ml-vision-edge-931b6.firebaseio.com",
+    "project_id": "auto-ml-vision-edge-931b6",
+    "storage_bucket": "auto-ml-vision-edge-931b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87397565953:android:11aa2a18bc552f9a09a200",
+        "android_client_info": {
+          "package_name": "com.lauszus.facerecognitionapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87397565953-aqhnp3s6hdhd68iemsd7bfqeb91svgc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_SB5gLqLIVJCOP7szA_LqgwDR529lafo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87397565953-aqhnp3s6hdhd68iemsd7bfqeb91svgc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87397565953:android:ecfc4dc31b485df209a200",
+        "android_client_info": {
+          "package_name": "org.tensorflow.lite.examples.facerecognition"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87397565953-aqhnp3s6hdhd68iemsd7bfqeb91svgc1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_SB5gLqLIVJCOP7szA_LqgwDR529lafo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87397565953-aqhnp3s6hdhd68iemsd7bfqeb91svgc1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
